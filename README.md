@@ -1,3 +1,10 @@
+#Yasmin
+
+I decided to create an e-commerce for handicrafts products.
+
+You can check it [here](https://aurorischarms.netlify.app/)
+
+
 # isa7-css-ecommerce-project
 ## CSS Assignment - 10 points
 - Instructions (you can design an ecommerce website the you like but make sure it has the following)
